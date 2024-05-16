@@ -40,8 +40,8 @@ button{
 }
 
 .numbers{
-        background-color: #303140;
-        color: #0c8ce9;
+    background-color: #303140;
+    color: #0c8ce9;
 }
 
 .numbers:hover{
@@ -50,8 +50,9 @@ button{
 
 }
 
-#button:active{
-    background-color: orange;
+.numbers:active{
+    background-color: #303140;
+    color: #0c8ce9;
 }
 
 .operator{
